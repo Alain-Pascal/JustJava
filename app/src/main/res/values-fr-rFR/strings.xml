@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="username">Nom</string>
+    <string name="chocolate">Chocolat</string>
+    <string name="quantity">Quantité</string>
+    <string name="thank_you">Merci!</string>
+    <string name="order_summary_name">Nom:</string>
+    <string name="order">Commander</string>
+    <string name="whipped_cream">Crème fouettée</string>
+    <string name="toppings">Garnitures</string>
+    <string name="order_summary_whipped_cream">Ajouter la crème fouettée?</string>
+    <string name="order_summary_chocolate">Ajouter le chocolat?</string>
+    <string name="order_summary_quantity">Quantité:</string>
+    <string name="order_summary_total">Total:</string>
+    <string name="minus">-</string>
+    <string name="quantity_text">2</string>
+    <string name="plus">+</string>
+    <string name="order_summary_subject">JustJava Commande De</string>
+    <string name="toast_message_less">Vous ne pouvez pas avoir moins de 1 caffée</string>
+    <string name="toast_message_more">Vous ne pouvez pas avoir plus de 100 caffées</string>
+</resources>
